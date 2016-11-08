@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     gluOrtho2D(0, HEIGHT - 1, WIDTH - 1, 0);
 
     //glutIdleFunc(idle);
-    glutKeyboardFunc(keyboard);
+    //glutKeyboardFunc(keyboard);
 
     glutMainLoop();
     return 0;
@@ -137,5 +137,4 @@ void keyboard(unsigned char key, int x, int y) {
 }
 
 void movePlayer(int direction){
-    int aixo_e_una_prova = 0;
 }
