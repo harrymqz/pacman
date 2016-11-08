@@ -137,6 +137,5 @@ void keyboard(unsigned char key, int x, int y) {
 }
 
 void movePlayer(int direction){
-    int test = 0;
-    int prova = 0;
+    
 }
