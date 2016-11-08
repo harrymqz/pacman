@@ -137,5 +137,5 @@ void keyboard(unsigned char key, int x, int y) {
 }
 
 void movePlayer(int direction){
-    // Rubens git test
+    // Rubens git testd
 }
