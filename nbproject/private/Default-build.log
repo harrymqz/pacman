@@ -1,0 +1,1 @@
+g++ map_generator.cpp -o map_generator -lglut -lGLU -lGL -lm 
